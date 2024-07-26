@@ -44,4 +44,10 @@
   </a>
 </h2>
 
+<p align="center">
+    이 파일만 가져가셔도 진행이 되지 않습니다
+    postgresML의 파일로 스스로 진행하시되 막히는 부분이 있다면 해당 파일과 비교 분석해주시거나
+    혹은 유튜브 영상에 댓글 달아주시면 답변 드리겠습니다
+    <a href="https://youtu.be/8eWFXb8PxII?si=r9YegD2Rq3V2pMCO" target="_blank">유튜브 영상</a>
+</p>
 
