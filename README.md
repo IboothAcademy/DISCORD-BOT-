@@ -38,7 +38,7 @@
         width="200" height="50"
     >
         <text font-size="32" x="20" y="32">
-            <tspan fill="white" style="mix-blend-mode: difference;">Iboot Academy</tspan><tspan fill="dodgerblue">ML</tspan>
+            <tspan fill="white" style="mix-blend-mode: difference;">Iboot Academy</tspan>
         </text>
     </svg>
   </a>
